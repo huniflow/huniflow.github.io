@@ -260,6 +260,7 @@ pagination:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
