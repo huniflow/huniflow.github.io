@@ -912,10 +912,10 @@ Author links are all optional, include the ones you want visible under the `auth
 
 ```yaml
 author:
-  name: "Your Name"
+  name: "Huni"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  bio: "No great thing is created suddenly." # Note: Markdown is allowed
+  location: "Seoul"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
