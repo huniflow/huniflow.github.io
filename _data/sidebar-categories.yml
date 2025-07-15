@@ -1,0 +1,9 @@
+- title: "카테고리"
+  url: /categories/
+  children:
+    - title: "블로그"
+      url: /blog/
+    - title: "카테고리B"
+      url: /categoryB/
+    - title: "카테고리C"
+      url: /categoryC/
