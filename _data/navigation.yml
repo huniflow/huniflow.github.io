@@ -1,6 +1,6 @@
 # main links
 main:
-  
+
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -11,13 +11,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-    sidebar-category:
-      - title: "카테고리"
-        children:
-        - title: "블로그"
-          url: "/blog"
-        - title: "카테고리B"
-          url:  "/CategoryB"
-        - title: "카테고리C"
-          url:  "/CategoryC"
+  
+docs:
+  - title: Book Study
+    children:
+      - title: "임베디드 C프로그래밍 최적화"
+        url: /categories/embedded_c_optimization
+  - title: 삽질일기
+    children:
+      - title: "라즈베리파이"
+        url: /categories/raspberry_pi
