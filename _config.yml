@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Huni"
-  avatar           : "/assets/images/huni-datalog.png"
+  avatar           : "/assets/images/huni_datalog.png"
   bio              : "No great thing is created suddenly."
   location         : "Seoul"
   email            :
